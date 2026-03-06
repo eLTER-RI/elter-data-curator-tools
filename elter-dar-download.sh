@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-DATASET_IDS=("s5tx8-qkr13" "04gtx-z1434" "rx0gy-vkz44")
+DATASET_IDS=("XXXXX-XXXXX" "YYYYY-YYYYY" "ZZZZZ-ZZZZZ")
 
 # Path where the script is stored
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

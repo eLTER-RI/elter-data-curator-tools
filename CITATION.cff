@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "eLTER Data Curator Tools"
+version: 1.0.0
+year: 2024
+authors:
+  - family-names: "Abbrent"
+    given-names: "Martin"
+    orcid: "https://orcid.org/0000-0003-1252-9107"
+    affiliation: "Helmholtz Centre for Environmental Research - UFZ"
+license: EUPL-1.2
+url: "https://github.com/eLTER-RI/elter-data-curator-tools"
