@@ -64,9 +64,9 @@ To be continued...
 
 ## Authors
 
-|                     Author                     |                                   Affiliation                                   | ORCID |                         e-mail                         |
-|:----------------------------------------------:|:-------------------------------------------------------------------------------:| :---: |:------------------------------------------------------:|
-| ![](https://avatars.githubusercontent.com/u/643697?v=4)[Martin Abbrent](https://github.com/maab) | [ Helmholtz Centre for Environmental Research - UFZ](https://ror.org/000h6jb29) | [0000-0003-1252-9107](https://orcid.org/0000-0003-1252-9107) | [martin.abbrent\@ufz.de](mailto:martin.abbrent@ufz.de) |
+|                                                                  Author                                                                   |                                   Affiliation                                   | ORCID |                         e-mail                         |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:| :---: |:------------------------------------------------------:|
+| <p><img src="https://avatars.githubusercontent.com/u/643697?v=4" width="30" height="auto"/></p> [Martin Abbrent](https://github.com/maab) | [ Helmholtz Centre for Environmental Research - UFZ](https://ror.org/000h6jb29) | [0000-0003-1252-9107](https://orcid.org/0000-0003-1252-9107) | [martin.abbrent\@ufz.de](mailto:martin.abbrent@ufz.de) |
 
 ## License
 
